@@ -6,7 +6,7 @@ from __future__ import print_function
 
 import os
 import subprocess
-
+import logging
 
 def clear_unusued_docker():
     """Clear dockers"""
